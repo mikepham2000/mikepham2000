@@ -20,7 +20,7 @@ Ph.D. Student in Animal Breeding & Genetics · Iowa State University
 
 ---
 
-### selected publications
+### publications
 
 - Pham et al. (2025). Genotype × environment interactions for reproductive performance of North American purebred sows between North America and Southeast Asia. *Journal of Animal Science*. [doi:10.1093/jas/skaf191](https://doi.org/10.1093/jas/skaf191)
 - More is coming ....
