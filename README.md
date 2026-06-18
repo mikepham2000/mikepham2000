@@ -1,4 +1,4 @@
-# Hi, I'm Huy Pham (aka MIKE) 👋
+# Hi, I'm Huy (Mike) Pham  👋
 
 Ph.D. Student in Animal Breeding & Genetics · Iowa State University
 
@@ -8,7 +8,7 @@ Ph.D. Student in Animal Breeding & Genetics · Iowa State University
 
 - 🐖 My research interests are mainly swine genetics
 - 📊 Focus on statistical genomics and quantitative genetics
-- 🌏 from Vietnam & Thailand, now based in Ames, Iowa
+- 🌏 from Vietnam, now based in Ames, Iowa
 
 ---
 
@@ -27,7 +27,7 @@ Ph.D. Student in Animal Breeding & Genetics · Iowa State University
 
 ---
 
-### Find me
+### Contacts
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nguyenphathuypham@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huy-pham-nguyen-phat/)
