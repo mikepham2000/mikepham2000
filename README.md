@@ -9,7 +9,7 @@ Ph.D. Candidate in Animal Breeding & Genetics · Iowa State University
 - 🐖 My research interests are mainly swine genetics
 - 📊 Focus on statistical genomics and quantitative genetics
 - 🌏 from Vietnam, now based in Ames, Iowa
-- More at [mikepham.github](https://mikepham2000.github.io/)
+- More at [Personal Webpage](https://mikepham2000.github.io/)
 ---
 
 ### Languages & tools
