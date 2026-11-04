@@ -1,6 +1,6 @@
 # Hi, I'm Huy (Mike) Pham  👋
 
-Ph.D. Student in Animal Breeding & Genetics · Iowa State University
+Ph.D. Candidate in Animal Breeding & Genetics · Iowa State University
 
 ---
 
@@ -20,9 +20,10 @@ Ph.D. Student in Animal Breeding & Genetics · Iowa State University
 
 ---
 
-### Publications
+### First-author publications
 
-- Pham et al. (2025). Genotype × environment interactions for reproductive performance of North American purebred sows between North America and Southeast Asia. *Journal of Animal Science*. [doi:10.1093/jas/skaf191](https://doi.org/10.1093/jas/skaf191)
+- Pham et al. (2025). Genotype × environment interactions for reproductive performance of North American purebred sows between North America and Southeast Asia. *Journal of Animal Science*. [doi:10.1093/jas/skaf191](https://doi.org/10.1093/jas/skaf191).
+- Pham et al. (2025). Module eigengenes from weighted gene co-expression network analysis of blood of healthy pigs as potential genetic indicators of disease resilience. *WCGALP 2026*. [doi:10.31274/wcgalp.24122](https://doi.org/10.31274/wcgalp.24122).
 - More is coming ....
 
 ---
